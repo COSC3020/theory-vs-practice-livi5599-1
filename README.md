@@ -44,6 +44,8 @@ When adjusting 1.1, I got help from Jacob in lab.  He brought up how I should go
 When adjusting 1.3, I got help from ChatGPT.  I asked it the question asked in the assignment and used one of it's responses to help me add to my original response.
 For 3, I got help from ChatGPT and Ali.  I asked how I could further elaborate on/edit my answer and used their responses to help me write my answers.
 
+When adding to 2.1, I asked ChatGPT to give me an example of a binary search tree and to give a vague answer about how the tree represents binary search.  I did this so I could have a better understanding on how binary search trees work.  This then led me to my conclusion of a tree being unbalanced when the element being searched for is at the beginning or end of the list.
+
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models.  All of the work is my own, except where stated otherwise.  I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
 -----

@@ -25,7 +25,7 @@ Bullet 1
 
 Bullet 2
 
-The time complexity depends on if the binary search tree is balanced or not.  If it is balanced, it has a best case of O(1) and an average and worst case of O(log(n)).  If it isn’t balanced, it has a best case of O(1), and an average and worst case of O(n).
+The time complexity depends on if the binary search tree is balanced or not.  If it is balanced, it has a best case of O(1) and an average and worst case of O(log(n)).  If it isn’t balanced, it has a best case of O(1), and an average and worst case of O(n).  When a binary search tree is unbalanced, that means that the element being searched for is either at the beginning or end of the list.  This is because the list must be cut in half several times in order to find the element, and each time the tree branches out means the list was cut in half.  This forms uneven branches, thus making an unbalanced tree.
 
 For a balanced binary tree, finding the same element in a tree of 10,000 elements takes about 6.65 seconds in the worst case, which comes from multiplying 5 by log2(10,000)/log2(1,000).  For an unbalanced binary tree, finding the same element in a tree of 10,000 elements takes about 50 seconds in the worst case, which comes from multiplying 5 by 10,000/1,000. 
 
